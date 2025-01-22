@@ -1,0 +1,8 @@
+discord.py
+slack-sdk
+SQLAlchemy
+pandas
+newsapi-python
+pytz
+aiohttp
+psutil==5.9.5
